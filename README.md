@@ -16,7 +16,7 @@
 
 **Include** : 
 * 40A and up to 600W of power on Buck converters  which provide stabily and wont burn while the peak of the robot servos
-* 2 power lines 1 for 9 servos which provide great performance
+* 2 power lines 1 for 9 servos which provide great performance(J5-J20 is A-servo_power line J21-J36 is B-servo_power line it is important you should use 9 servos for each power line for better perfomnace and power symetry )
 * 2 INA226 sensors which allows to track the power and get Data
 * 32 PWM ports for those who wanna add additional stuff into robot
 * BNO055 IMU which provide great perfomance and stability
