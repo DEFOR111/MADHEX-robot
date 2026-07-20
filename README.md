@@ -47,7 +47,7 @@
 
 | Spec | Value |
 | :--- | :--- |
-| **Footprint** | ~800 mm length × 300 mm height |
+| **Size** | ~800 mm length × 300 mm height |
 | **Servos** | DS3235 (high-torque, no secondary shaft) |
 | **Shaft support** | Added bearings on each joint to compensate for the single-shaft servo design, reducing backlash and improving long-term stability |
 | **Range of motion** | Mid-to-high performance angle range, tuned for smooth walking gait |
