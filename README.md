@@ -10,7 +10,7 @@
 ## ***About:*** 
 **MADHEX** is a fully open-source hexapod (six-legged) robot project. It includes a custom-designed power/control PCB, complete mechanical CAD files, and everything needed to build, wire, and bring your own hexapod to life — from soldering the board to your first steps in inverse kinematics.
 
-**This repo is built for makers, robotics students, and hobbyists who want a real, working reference design instead of starting from a blank sheet.**
+**This repo is built for makers, robotics students, and hobbyists who want a real Hexapod .**
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ## Features
