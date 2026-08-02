@@ -41,6 +41,11 @@
 
 ***Why it matters:*** **a small footprint board that reliably drives 32 PWM channels means more room in the chassis for batteries, sensors, or a gripper — without redesigning the electronics.**
 
+
+<img width="428" height="56" alt="Снимок экрана 2026-08-02 171105" src="https://github.com/user-attachments/assets/0c5b6319-4046-45be-9528-b2dbe88e3432" />
+
+### **DRC** - this PCB design includes only 2 warnings with 0 mistakes which means it is ready for manufactoring and these 2 warnings is just Kicad  and footprint problem of esp32-s3 footprint 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## CAD 
 <img width="1008" height="688" alt="WhatsApp Image 2026-07-16 at 12 32 35 PM (2)" src="https://github.com/user-attachments/assets/25f35361-2b33-45ec-b60d-fe705a514797" />
