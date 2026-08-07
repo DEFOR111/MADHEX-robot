@@ -64,3 +64,5 @@
 * Print/order the chassis — CAD files in /cad
 * Assemble the PCB — schematics and Gerbers in /pcb
 * Wire the servos — respect the two power rails (9 servos per rail)
+
+(FOR HACK CLUB: i have changed a bit of project in electronics to prevent it from braking after the submission )
